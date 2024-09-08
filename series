@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/qnNMqsD.png" group-title="Canais Abertos",RBS TV Porto Alegre
-http://mundogf.dyndns.tv:25461/live/KuhKtGRz0i/eAjeggLuCH/43.m3u8
+#EXTINF:-1 tvg-id="SBT Internacional" tvg-name="SBT Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Canais Abertos",SBT Int.
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
 http://mundogf.dyndns.tv:25461/live/KuhKtGRz0i/eAjeggLuCH/449.m3u8
