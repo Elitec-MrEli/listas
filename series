@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="SBT Internacional" tvg-name="SBT Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Canais Abertos",SBT Int.
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
-http://mundogf.dyndns.tv:25461/live/KuhKtGRz0i/eAjeggLuCH/449.m3u8
-
-#EXTINF:-1 tvg-id="ELITEC CAMERA FRENTE" tvg-name="ELITEC CAMERA FRENTE" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipP2agmrhMDpeVIYc-9ABHv-4RjKAghVV0onZvsv=s1360-w1360-h1020" group-title="ELITEC CAMERAS",ELITEC CAMERA FRENTE
-http://rtsp.me/embed/RFSdFFsf/
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
