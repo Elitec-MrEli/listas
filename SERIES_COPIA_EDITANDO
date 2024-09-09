@@ -1,0 +1,895 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Globo Curitiba FHD" tvg-name="Globo Curitiba FHD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Curitiba FHD
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/12
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais Abertos",GLOBO SP.
+http://15.235.15.230:14488/
+
+#EXTINF:-1 tvg-id="GLOBO MIR HD" tvg-name="GLOBO MIR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais Abertos",GLOBO MIR HD.
+http://15.235.15.230:14499/MANOTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD
+http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
+
+#EXTINF:-1 tvg-id="SBT Internacional" tvg-name="SBT Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Canais Abertos",SBT Int.
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",Mais SBT SD
+https://aovivo.maissbt.com/index_23.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SD
+https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/80b7acd5-bf57-49aa-93d7-c1e82fb9320e/4.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP SD
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD 
+http://gzcdn.vood.top:80/hls/547_.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Canais | NOVELAS",TVi Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/851wj7w.png" group-title="Canais | NOVELAS",A Escrava_Isaura
+https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS", Malhação Fast
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
+https://cdn-5.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
+https://cdn-5.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+https://cdn-5.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV SD
+https://cdn-5.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel SD
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health  HD
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais | VARIEDADES",Cultne TV
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
+https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD 
+http://cdn-5.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! FHD
+http://authbr15jul.halites.online:80/5729/index.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
+http://authbr15jul.halites.online:80/5794/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD 
+http://authbr15jul.halites.online:80/5821/index.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD [Alter]
+http://dzcdn.vood.top:80/hls/377243_.m3u8
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL SD
+https://cdn-4.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
+http://authbr15jul.halites.online:80/5915/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
+http://authbr15jul.halites.online:80/5914/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
+http://authbr15jul.halites.online:80/5918/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
+http://authbr15jul.halites.online:80/5920/index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD 
+http://authbr15jul.halites.online:80/5921/index.m3u8
+################################################################# IMPUROS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x10.mp4
+
+################################################################ IMPUROS S02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x10.mp4
+
+################################################################ IMPUROS S03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x10.mp4
+
+################################################################ IMPUROS S04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x10.mp4
+
+################################################################# IMPUROS S05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E10
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x10.mp4
+ 
+############################################################################ ORIGEM (FROM)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E08
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E09
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E10
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x10.mp4
+
+############################################################################ ORIGEM (FROM)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E08
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E09
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E10
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x10.mp4
+
+############################################################################ LUPIN S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x5.mp4
+
+############################################################################ LUPIN S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x5.mp4
+
+############################################################################ LUPIN S03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E01
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E02
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E03
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E04
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E05
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E06
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E07
+http://shd7.doramasapp.xyz/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x7.mp4
+
+############################################################################ MANUAL D ASSASSINATO PARA BOAS GAROTAS S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2oOh07.png" group-title="Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/218342/1x6.mp4
+
+############################################################################ SANGUE NOVO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU97fc5.png" group-title="Série | SANGUE NOVO S01",S01 E07
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/66604/1x7.mp4
+
+############################################################################ THE UMBRELLA ACADEMY S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S01",S01 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/1x10.mp4
+
+############################################################################ THE UMBRELLA ACADEMY S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S02",S02 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/2x10.mp4
+
+############################################################################ THE UMBRELLA ACADEMY S03
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S03",S03 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/3x10.mp4
+
+############################################################################ THE UMBRELLA ACADEMY S04
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x6.mp4
+
+############################################################################ FILMES
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Suicida
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21301418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Deadpool & Wolverine
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6263850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",DivertidaMente 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt22022452.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",DivertidaMente
+https://msrvplay.top/get.php?username=gdf97214&password=2536897214&type=m3u_plus
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Amigos Sem Compromisso
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt28669770.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Semente do Mal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt26594993.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0120693.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Pra Lá de Bagdá 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12631486.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Morando com o Crush
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt23456602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Medidas Extremas
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt12330400.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Zoolander
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0196229.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velozes & Furiosos 10
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5433140.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Vizinho Mafioso
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0190138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Free Guy: Assumindo o Controle
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt6264654.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Destino de Júpiter
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt1617661.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Goyo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt32598483.mp4
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",MR-9: Missão Mortal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9044418.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Ataque dos Tubarões
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt21816892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Treinado Para Matar
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt15029508.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Nikita: Criada para Matar
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0100263.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Garfield Fora d Casa
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt5779228.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Tira da Pesada 4: Axel Foley
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt3083016.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Exorcismo
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11240348LEG.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Caçada Fantasma
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt25730490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Demônio Entre Nós
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt19895130.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feliz Aniversário Para Mim
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0082498.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Até a Morte: Sobreviver é a Melhor Vingança
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11804152.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ignição
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt2054778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Velocidade Do Silêncio
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0836633.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: Ponto De Ruptura
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0870671.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Hot Wheels AcceleRacers: A Corrida Final
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/FHD5/tt0865293.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Gato de Sorte
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt7959138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bad Boys: Até o Fim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt4919268.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Swingers – Troca de Casais
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10297320.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Relacionamento Aberto
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13868030.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Busca do Barco Perdido
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13243448.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vidas Importam
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8171000.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Valorize ou Morra
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15790974.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fugindo da Morte
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13852690.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Tentação 
+http://shd1.doramasapp.xyz/sfgerg54yrt/SHD1/76479/4x2.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mulher nota 1000
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0090305.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt1659337.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt4160708.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Homem nas Trevas 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6246322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bob Marley: One Love
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8521778.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte d Amar
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28355490.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Assassinato de Elite 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt27028399.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Madame Teia
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt11057302.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Lenda do Cavaleiro Sem Cabeça
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0051850.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Retorno dos Thundermans
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt26943420.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ricky Stanicky
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1660648.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Donzela 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13452446.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Recepcionista
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Xaque Mate
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt30850554.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119215.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt25289836.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Beekeeper Rede d Vingança 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15314262.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Vale do amor
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13496136.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Belo desastre
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Marcas da Vida
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt20864704.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Leve-me
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6598626.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", 2022 Através da minha Janela
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14463484.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2023  Através da minha Janela 2: Além do Mar
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21245882.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2024Através da minha Janela 3: Olho nos olhos 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28105944.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",40 dias e 40 noites
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0243736.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Cherry 2000
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0092746.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt8949056.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ligados pelo Amor
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt2205697.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Volta pra Mim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6462958.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Reis de Dogtown
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0355702.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Paixão Sem Limites 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0106627.mp4
+Belo desastre
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Separados pelo Casamento 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0452594.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Fazendo meu Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15386618.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mamonas Assassinas O Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Ruínas 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Verão só para Nós 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Cunhado é um Vampiro 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Última Esperança Soviética 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rúcula com Tomate Sefo
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desencaixados
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",É Pura Sorte
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fale Comigo
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Álibi.com
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ritual Maldito 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Mortais 10
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perfeita Pra Você
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feriado Sangrento 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vingadores Ultimato
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Últimos Sobreviventes 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O matador d aluguel 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Despedida d Solteira 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Mercenários 4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desculpa Mais vou te Matar 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Cor da Vingança 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tudo Sob Descontrole 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perseguição em Malta
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Tática de Amor 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tática de Amor 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada 
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Gênio Indomável
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Malibu Crush
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Diário de uma adolescente 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
