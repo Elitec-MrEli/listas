@@ -1355,8 +1355,8 @@ https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg
 #EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Rock
 https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
 
-#EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="RÁDIO",ATIVIDADE FM 87.9 Canudos BA
-http://atividadefm879.html5player.acessaradios.com.br:9256/atividadefm879
+#EXTINF:-1  tvg-id="Seara FM Casca" tvg-name="Seara FM Casca" tvg-logo="https://scontent.fcxj14-1.fna.fbcdn.net/v/t39.30808-6/416566403_862382945892517_8802746435217441299_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Tf6GkTrJ2TYQ7kNvgGsSvvG&_nc_ht=scontent.fcxj14-1.fna&_nc_gid=AW3Ncgpbydqskm8-HNqrYtU&oh=00_AYCqlecg9-FOA6VcaoQ6bt_8WjPLeD0ioW85T0ZA1OhEkg&oe=66E62B52" group-title="RÁDIO",Seara FM Casca / RS
+https://stm1.painelcast.com:6694/stream
 
 #EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="RÁDIO",JERE FM 106.9 JEREMOABO BA
 http://172.82.160.250:8309/stream
