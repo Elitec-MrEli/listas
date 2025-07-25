@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Acesso à Internet</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      background-color: #1f31ab; /* azul ESCURO */
+      padding: 6vw;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      max-width: 90vw;
+      width: 100%;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 6vw;
+      color: #000504;
+      margin-bottom: 3vw;
+    }
+
+    p {
+      font-size: 4.5vw;
+      color: #ebebeb;
+      margin: 3vw 0;
+    }
+
+    #contador {
+      font-weight: bold;
+      color: #d80000;
+      font-size: 5vw;
+    }
+
+    button {
+      margin-top: 5vw;
+      padding: 4vw 8vw;
+      font-size: 5vw;
+      background-color: #28a745; /* verde! */
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #218838; /* verde mais escuro no hover */
+    }
+
+    @media (min-width: 600px) {
+      h2 { font-size: 24px; }
+      p, button { font-size: 18px; }
+      #contador { font-size: 20px; }
+    }
+  </style>
+
+  <script>
+    let segundos = 8;
+
+    function atualizarContador() {
+      document.getElementById("contador").textContent = segundos;
+      if (segundos <= 0) {
+        document.getElementById("loginForm").submit();
+      } else {
+        segundos--;
+        setTimeout(atualizarContador, 1000);
+      }
+    }
+
+    window.onload = atualizarContador;
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h2>📡 Elitec Sistemas 🛰️</h2>
+	<h2>🌐Rede Wi-Fi - PIX</h2>    
+    <p>✅ Ao continuar, você aceita que usará esta rede apenas para:<br> <strong>PIX 💸<br></strong> e <strong>WhatsApp 🟢</strong>.</p>
+	
+    <form id="loginForm" action="/login" method="post">
+      <input type="hidden" name="username" value="guest" />
+      <input type="hidden" name="password" value="" />
+      <button type="submit">Aceito os Termos</button>
+    </form>
+
+    <p>
+      Se não clicar em "Aceito os Termos", o acesso será liberado automaticamente em
+      <span id="contador">30</span> segundos.
+	  Qualquer dúvida entre em contato pelo telefone 📲 (54)984258499
+    </p>
+  </div>
+</body>
+</html>
